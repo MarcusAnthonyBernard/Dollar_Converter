@@ -1,0 +1,40 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: black;
+}
+
+.card1 {
+    background-color: linear-gradient(to right, #e47a17, #e74c3c);
+}
+
+.card2 {
+    background-color: aquamarine;
+}
+
+.card3 {
+    background-color: rgb(149, 243, 149);
+}
+
+.card4 {
+    background-color: rgb(180, 107, 23);
+}
+
+.card5 {
+    background-color: blueviolet;
+}
+
+.card6 {
+    background-color: goldenrod;
+}
+.card7 {
+    background-color: rgb(43, 226, 83);
+}
+.card8 {
+    background-color: rosybrown;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+} 
